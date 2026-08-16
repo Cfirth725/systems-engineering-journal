@@ -1,6 +1,6 @@
 # 🛠️ Systems Engineering Journal
 
-Welcome to my systems engineering and infrastructure journal. This repository tracks architectural decisions, home lab engineering evolution, and formal incident post-mortems for hardware bring-up, virtualization, networking, and storage systems.
+Welcome to my systems engineering and infrastructure journal. This repository tracks architectural decisions, home lab engineering evolution, operational runbooks, and formal incident post-mortems for hardware bring-up, virtualization, networking, and storage systems.
 
 The documentation here reflects a production-grade approach to systems management: prioritizing root-cause analysis (RCA), least-privilege security, stateless compute migrations, and systematic hardware isolation.
 
@@ -14,6 +14,14 @@ The documentation here reflects a production-grade approach to systems managemen
 | **ADR-002** | [Tiered Storage, ZFS Tuning, & Drive I/O Optimization](./architecture-decision-records/002-storage-tiering-and-io-optimization.md) | 2026-07-30 | Storage / Filesystem Tuning | Accepted |
 | **ADR-003** | [Storage Ingestion & Persistent Mount Strategy](./architecture-decision-records/003-storage-ingestion-and-persistent-mount-strategy.md) | 2026-08-15 | Storage / NFSv4 Networking | Accepted |
 | **ADR-004** | [Zero-Trust Remote Ingress via Overlay Mesh](./architecture-decision-records/004-zero-trust-remote-ingress-mesh.md) | 2026-08-15 | Networking / ZTNA Ingress | Accepted |
+
+---
+
+## 📋 Infrastructure & Operational Runbooks
+
+| Doc ID | Title | Date | Target Systems | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **RBK-001** | [Observability & Telemetry Blueprint](./runbooks/001-observability-blueprint.md) | 2026-08-16 | Proxmox VE / TrueNAS / Docker | Proposed |
 
 ---
 
