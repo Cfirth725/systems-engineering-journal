@@ -21,6 +21,7 @@ The documentation here reflects a production-grade approach to systems managemen
 | :--- | :--- | :--- | :--- |
 | **2026-08-04** | [POST Failure on Z890 Mini-ITX Build](./post-mortems/2026-08-04-z890-dram-post-failure.md) | Hardware / Firmware | Resolved |
 | **2026-08-12** | [Environment Migration: Pi 3B to Proxmox](./post-mortems/2026-08-12-pi3b-to-proxmox-migration.md) | Compute / Virtualization | Resolved |
+| **2026-08-15** | [Enterprise Schedule State Overwrite via Automated Sync](./post-mortems/2026-08-15-schedule-state-overwrite-sync.md) | Application State / Data Recovery | Resolved |
 
 ---
 
