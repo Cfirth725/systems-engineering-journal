@@ -23,6 +23,7 @@ The documentation here reflects a production-grade approach to systems managemen
 | :--- | :--- | :--- | :--- | :--- |
 | **RBK-001** | [Observability & Telemetry Blueprint](./runbooks/001-observability-blueprint.md) | 2026-08-16 | Proxmox VE / TrueNAS / Docker | Proposed |
 | **RBK-002** | [Docker Host & Container Lifecycle Triage](./runbooks/002-docker-host-triage.md) | 2026-08-16 | Proxmox VE / Docker | Operational |
+| **RBK-003** | [ZFS Storage Pool Maintenance & Disk Degradation](./runbooks/003-zfs-storage-maintenance.md) | 2026-08-17 | TrueNAS SCALE / OpenZFS | Operational |
 
 ---
 
